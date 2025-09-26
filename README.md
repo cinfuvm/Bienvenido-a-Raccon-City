@@ -1,7 +1,3 @@
-# bienvenido-a-Rc
-Proyecto: Sistemas web y Aplicaciones moviles 
-Estudiante: Jeremias Carrasco
-
 <!doctype html>
 <html lang="es">
 <head>
